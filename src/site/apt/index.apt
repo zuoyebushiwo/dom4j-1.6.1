@@ -1,0 +1,30 @@
+ ------
+Introduction
+ ------
+ Filip Jirs\u00E1k
+ ------
+ September 2008
+ ------
+
+Welcome to dom4j 2.0!
+
+ dom4j is an easy to use, open source library for working with XML, XPath and XSLT on the Java platform using the Java Collections Framework and with full support for DOM, SAX and JAXP. 
+
+* Goals for version 2.0
+
+ * compatible with Java 5
+
+ * improve the utilization of new language constructs and classes from Java 5 - generics, concurency framework, enums etc.
+
+ * clear code (methods marked as deprecated and specified to be removed in version 1.6 will be really removed)
+
+ * finish missing documentation
+
+* Planned 1.6.2 maitance release
+ 
+ * compatible with Java 1.4 and older
+
+ * no changes in source code
+
+ * update dependencies to stable versions
+
